@@ -79,17 +79,17 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4239/f4dc825480881bec9bb82602669fa3ed_1.jpg
+  img: https://img0.baidu.com/it/u=513896099,1347911649&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400
   effect: false
 
 # Disable all banner image
 disable_top_img: true
 
 # The banner image of home page
-index_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4239/346121.jpg
+index_img: https://img0.baidu.com/it/u=513896099,1347911649&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4239/346121.jpg
+default_top_img: https://img0.baidu.com/it/u=513896099,1347911649&fm=253&fmt=auto&app=138&f=JPEG?w=400&h=400
 
 # The banner image of archive page
 archive_img:
@@ -513,7 +513,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/4239/346121.jpg)
+background: url(https://konachan.net/sample/ab4eda4caa8fdb3545da358cf38d0c3b/Konachan.com%20-%20354434%20sample.jpg)
 
 # Footer Background
 footer_bg: false
