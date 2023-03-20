@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 四海的博客
+title: 四海
 subtitle: ''
 description: ''
 keywords:
@@ -112,3 +112,23 @@ search:
   field: post
   format: html
   limit: 10000
+
+# Live2D
+## https://github.com/EYHN/hexo-helper-live2d
+#Live2D动画
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-koharu
+  display:
+    position: left
+    width: 150
+    height: 300
+  mobile:
+    show: true
